@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+    <g fill="none" stroke="black" stroke-width="2">
+        <rect x="100" y="50" width="200" height="100" rx="15" fill="teal"/>
+        <text x="200" y="100" font-size="20" text-anchor="middle" fill="white">Theory</text>
+
+        <rect x="100" y="200" width="200" height="100" rx="15" fill="orange"/>
+        <text x="200" y="250" font-size="20" text-anchor="middle" fill="white">Model Development</text>
+
+        <rect x="100" y="350" width="200" height="100" rx="15" fill="blue"/>
+        <text x="200" y="400" font-size="20" text-anchor="middle" fill="white">Testing</text>
+
+        <rect x="100" y="500" width="200" height="100" rx="15" fill="red"/>
+        <text x="200" y="550" font-size="20" text-anchor="middle" fill="white">University Implementation</text>
+
+        <line x1="200" y1="150" x2="200" y2="200" stroke="black" stroke-width="2"/>
+        <line x1="200" y1="300" x2="200" y2="350" stroke="black" stroke-width="2"/>
+        <line x1="200" y1="450" x2="200" y2="500" stroke="black" stroke-width="2"/>
+    </g>
+</svg>
